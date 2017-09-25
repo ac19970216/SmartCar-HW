@@ -28,7 +28,9 @@ namespace LeapMotionDriverWindow
         {
             if (e.Key == Key.Escape)
                 Application.Current.Shutdown();
+            /*recover的程式修改*/
         }
+
     }
-    /*master的程式修改*/
+
 }
