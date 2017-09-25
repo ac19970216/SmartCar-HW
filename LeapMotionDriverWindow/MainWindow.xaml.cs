@@ -30,4 +30,5 @@ namespace LeapMotionDriverWindow
                 Application.Current.Shutdown();
         }
     }
+    /*master的程式修改*/
 }
